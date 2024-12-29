@@ -18,7 +18,7 @@ The game starts by displaying a welcome message and a set of instructions:
   The player are prompted to choose one of the valid options:
 - If you input something invalid (e.g., "rock" or "papers"), the program asks you to try again.
 - This ensures the game only proceeds with valid inputs like `"stone"`, `"paper"`, or `"scissors"`.
-- 
+  
 ### **4. Computer's Turn**
 The computer makes its choice randomly using the `random.choice()` function. This ensures the game is unpredictable and fair.
 
